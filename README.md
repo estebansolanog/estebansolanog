@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/JbBIQlj.png)](https://estebansolanog.io)
-<h1 align="center">Hi 👋, I'm Esteban Solano</h1>
+<h1 align="center">Hi 👋, I'm Esteban Solano, Software Developer with studies in Computer Science. Quick learner, always invested in acquiring new knowledge. Task oriented and a good team player.</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width"400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
